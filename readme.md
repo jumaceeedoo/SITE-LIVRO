@@ -24,7 +24,7 @@ Se você está pronto para desafiar suas perspectivas, expandir seus horizontes 
 
 ## Print da tela inicial
 
-![Print da tela inicial]()
+![Print da tela inicial](https://github.com/jumaceeedoo/SITE-LIVRO/blob/master/miniaturas/P%C3%A1ginaInicial.png)
 
 ## Autores 
 
